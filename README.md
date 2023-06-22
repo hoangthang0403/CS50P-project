@@ -57,6 +57,7 @@
 - [https://www.geeksforgeeks.org/]
 - [https://docs.python.org/3/library/]
 - [https://www.w3schools.com/]
+- [https://pypi.org/]
 ---
 ### **ABOUT CS50P**
 - CS50P is an openware course from Havard University and taught by *Professor David J Malan*.
