@@ -1,0 +1,8 @@
+re
+os
+csv
+tabulate
+getch
+fpdf
+black
+pytest
